@@ -1,9 +1,9 @@
-## Task: Interactive Navigation Menu
+## Interactive Navigation Menu
 
-### Objective:
-Create a fixed-position, responsive navigation menu for a movie website that changes color or style when hovered over.
+### Task 01:
+To Create an interactive navigation menu that changes color or style when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages
 
-### Tools Used:
+### I used:
 - **HTML:** Structured the menu.
 - **CSS:** Styled the menu and added hover effects.
 - **JavaScript:** Enabled interactive color/style changes on hover.
